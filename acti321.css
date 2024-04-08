@@ -1,0 +1,39 @@
+
+.camaleon{
+	
+	width:200px;
+	height:200px;
+	position: relative;
+	top: 600px; left: 1725px;
+}
+
+.mosca{
+
+	width:50px;
+	height:50px;
+	position: absolute;
+	
+}
+
+.puntero{
+
+	width:100px;
+	height:100px;
+	position: absolute;
+	
+}
+
+.puntero2{
+
+	width:100px;
+	height:100px;
+	position: absolute;
+	
+}
+.container {
+    width: 100%;
+    padding-right:0px;
+    padding-left: 0px;
+    
+    margin-left:400px;
+}
